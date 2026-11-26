@@ -1,3 +1,4 @@
 [submodule "third_party/melonDS"]
 	path = third_party/melonDS
 	url = https://github.com/libretro/melonDS
+	ignore = dirty
